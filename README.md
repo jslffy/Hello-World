@@ -1,3 +1,3 @@
 # Hello-World
-My first GitHub repository for learning.
-Hey Humans, wanna boot a ticket to Mars with Elon？
+My first GitHub repository.
+Hey Humans, wanna book a ticket to Mars with Elon？
